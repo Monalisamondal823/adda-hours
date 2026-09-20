@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import '../about.css'
+import '../About.css'
 import BG from '../assets/about-bg.jpg'          // the cafe photo
 import SKETCH from '../assets/about-victoria.png' // Victoria Memorial line art (transparent PNG)
 
